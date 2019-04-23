@@ -22,7 +22,7 @@ namespace Server
 
         public Server()
         {
-            IPAddress ip = IPAddress.Parse("127.0.0.1");
+            IPAddress ip = IPAddress.Parse("127.0.0.1"); // Change this ip for online
             Socket socket = new Socket(ip.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
 
             socket.Bind(new IPEndPoint(ip, 27960));

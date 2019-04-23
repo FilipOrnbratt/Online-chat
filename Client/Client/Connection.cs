@@ -18,7 +18,7 @@ namespace Client
             this.MessageHandler = MessageHandler;
             IPAddress ip = IPAddress.Parse("127.0.0.1");
             server = new Socket(ip.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
-            server.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 27960));
+            server.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 27960)); // Change this ip for online
             Console.WriteLine("Connected to: " + server.RemoteEndPoint.ToString());
             new Thread(RecieveMessages).Start();
         }

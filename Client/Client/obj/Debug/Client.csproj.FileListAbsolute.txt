@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Client online\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Filip\source\repos\Client online\Client\Client\bin\Debug\Client.exe
+C:\Users\Filip\source\repos\Client online\Client\Client\bin\Debug\Client.pdb
+C:\Users\Filip\source\repos\Client online\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Client online\Client\Client\obj\Debug\Client.exe
+C:\Users\Filip\source\repos\Client online\Client\Client\obj\Debug\Client.pdb
+C:\Users\Filip\source\repos\Game online\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Filip\source\repos\Game online\Client\Client\bin\Debug\Client.exe
+C:\Users\Filip\source\repos\Game online\Client\Client\bin\Debug\Client.pdb
+C:\Users\Filip\source\repos\Game online\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Game online\Client\Client\obj\Debug\Client.exe
+C:\Users\Filip\source\repos\Game online\Client\Client\obj\Debug\Client.pdb

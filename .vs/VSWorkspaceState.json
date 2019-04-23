@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\Client",
+    "\\Client\\Client\\bin",
+    "\\Server",
+    "\\Server\\Server"
+  ],
+  "SelectedNode": "\\Client\\Client\\Connection.cs",
+  "PreviewInSolutionExplorer": false
+}
